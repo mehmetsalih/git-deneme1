@@ -1,1 +1,4 @@
-ECHO is on.
+<?php
+
+echo "fork islemi yapiyoruz";
+?>
